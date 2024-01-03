@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manvitha Prestaine
 - 🙃 My user name is Chinnu0605
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on new ideas
 
 <!---
